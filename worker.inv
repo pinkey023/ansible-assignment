@@ -1,2 +1,2 @@
 [worker]
-172.31.2.238 ansible_user=root-user
+172.31.2.238 ansible_user=ec2-user
