@@ -1,0 +1,7 @@
+- hosts: all
+  tasks:
+    - name: copying app.yml
+  copy:
+    dest: "app.yml"
+    content:
+      haiiii
